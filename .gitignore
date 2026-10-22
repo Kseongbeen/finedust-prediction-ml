@@ -1,0 +1,18 @@
+# Caches
+.ipynb_checkpoints/
+__pycache__/
+
+# IDEs
+.vscode/
+.idea/
+
+# Large Datasets (Over 100MB - CRITICAL to ignore for GitHub limits)
+waqi-covid19-airqualitydata-2021.csv
+waqi-covid19-airqualitydata-2022.csv
+
+# Saved Models (if needed, but keeping them out keeps git light)
+*.pkl
+
+# System files
+.DS_Store
+Thumbs.db
